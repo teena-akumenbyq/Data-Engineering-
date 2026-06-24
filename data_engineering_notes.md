@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Database Management Systems (DBMS)](#1-database-management-systems-dbms)
 2. [Types of Databases — RDBMS vs NoSQL](#2-types-of-databases--rdbms-vs-nosql)
@@ -310,7 +310,7 @@ T4                                  Uses 5000 (WRONG ❌)
 |---|---|---|---|
 | **Read Uncommitted** | ✅ Possible | ✅ Possible | ✅ Possible |
 | **Read Committed** | ❌ Prevented | ✅ Possible | ✅ Possible |
-| **Repeatable Read** | ❌ Prevented | ❌ Prevented | ✅ Possible |
+| **Repeatable Read** | ❌ Prevented | ❌ Prevented |  Possible |
 | **Serializable** | ❌ Prevented | ❌ Prevented | ❌ Prevented |
 
 **Definitions:**
