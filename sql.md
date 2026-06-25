@@ -199,7 +199,3 @@ COMMIT	-Save changes	COMMIT;
 ROLLBACK -Undo changes	ROLLBACK;
 SAVEPOINT -Set a point to rollback to	SAVEPOINT sp1;
 SET TRANSACTION	- Define transaction properties	SET TRANSACTION READ ONLY;
-
-### Tip:
-DDL commands auto-commit (changes are permanent immediately).
-DML commands need COMMIT or ROLLBACK to finalize or undo changes.
